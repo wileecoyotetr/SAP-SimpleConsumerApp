@@ -1,8 +1,11 @@
-Prerequisites
+Prerequisites;
+
 Install Postman
+
 Install Node.js
 
 npm install
+
 npm start 
 
 postman;
