@@ -16,3 +16,7 @@ Property	Value
 4	raw
 5 - Content-Type	JSON(application/json)
 6 - Payload	{"msg": "Hello SAP Cloud Platform"}
+
+
+
+http://localhost:3000/
